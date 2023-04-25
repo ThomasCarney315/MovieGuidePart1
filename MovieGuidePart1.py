@@ -54,12 +54,5 @@ def main():
         else:
             print('Not a valid command.  Please try agian.')
 
-
-            
-
-
-
-
-
 if __name__ == "__main__":
     main()
